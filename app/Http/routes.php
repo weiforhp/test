@@ -14,4 +14,5 @@
 Route::get('/', function () {
     return view('welcome2');
     //cd
+    //master fix sth
 });
